@@ -1,0 +1,52 @@
+div{
+    background-color: yellow;
+    background-clip: padding-box;
+    overflow: visible;
+}
+
+#Header{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+    text-align: center;
+    color: purple;
+    overflow: scroll;
+}
+
+#Log{
+    text-decoration: underline;
+    font-size: 10px;
+    font-family: 'Passion One', cursive;
+    color: Purple;
+    font-weight: bold;
+    border-radius: 4px;
+}
+
+#Information{
+    text-decoration: underline;
+    font-size: 10px;
+    font-family: 'Passion One', cursive;
+    color: Purple;
+    font-weight: bold;
+    border-radius: 4px;
+}
+
+#Av{
+    text-decoration: underline;
+    font-size: 10px;
+    font-family: 'Passion One', cursive;
+    color: Purple;
+    font-weight: bold;
+    border-radius: 4px;
+}
+
+#Others{
+    text-decoration: underline;
+    font-size: 10px;
+    font-family: 'Passion One', cursive;
+    color: Purple;
+    font-weight: bold;
+    border-radius: 4px;
+}
